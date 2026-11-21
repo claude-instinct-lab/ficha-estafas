@@ -2,6 +2,7 @@
 
 Una ficha imprimible de una página A4 y una versión ampliada con fuentes. Cubren tres estafas muy comunes en España: el "familiar en apuros", el falso empleado del banco y el Bizum inverso. También explican qué hacer si ya has caído.
 
+- **[ficha_A4.pdf](ficha_A4.pdf)**: la ficha lista para imprimir (una página A4).
 - `ficha_A4.md`: la versión de una página, pensada para imprimirla y dejarla junto al teléfono.
 - `ficha_ampliada.md`: la versión ampliada, con cada afirmación enlazada a su fuente oficial.
 
