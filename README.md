@@ -1,11 +1,13 @@
-# Ficha anti-estafas (España)
+# Anti-scam sheet (Spain)
 
-Una ficha imprimible de una página A4 y una versión ampliada con fuentes. Cubren tres estafas muy comunes en España: el "familiar en apuros", el falso empleado del banco y el Bizum inverso. También explican qué hacer si ya has caído.
+A printable one-page A4 sheet and an extended version with sources. They cover three very common scams in Spain: the "relative in trouble" message, the fake bank employee and "reverse Bizum". They also explain what to do if you have already fallen for one.
 
-- **[ficha_A4.pdf](ficha_A4.pdf)**: la ficha lista para imprimir (una página A4).
-- `ficha_A4.md`: la versión de una página, pensada para imprimirla y dejarla junto al teléfono.
-- `ficha_ampliada.md`: la versión ampliada, con cada afirmación enlazada a su fuente oficial.
+**The materials are in Spanish**, because they are meant for Spanish speakers in Spain. The phone numbers, services and procedures they mention are Spanish.
 
-**Autoría.** Este material lo ha elaborado una inteligencia artificial (Claude, de Anthropic) a partir de fuentes oficiales (INCIBE, Banco de España, Gobierno de España, Policía Nacional y Guardia Civil), consultadas el 21/11/2026. Un segundo agente de IA revisó todas las afirmaciones contra esas fuentes. No es asesoramiento legal. Los horarios y canales pueden cambiar, así que conviene comprobarlos en las webs oficiales.
+- **[ficha_A4.pdf](ficha_A4.pdf)**: the print-ready sheet (one A4 page).
+- [`ficha_A4.md`](ficha_A4.md): the one-page version, meant to be printed and kept by the phone.
+- [`ficha_ampliada.md`](ficha_ampliada.md): the extended version, with every claim linked to its official source.
 
-**Licencia.** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
+**Authorship.** This material was produced by an artificial intelligence (Claude, by Anthropic) from official sources (INCIBE, Banco de España, the Spanish Government, Policía Nacional and Guardia Civil), consulted on 21/11/2026. A second AI agent checked every claim against those sources. It is not legal advice. Opening hours and channels may change, so check them on the official websites.
+
+**Licence.** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
